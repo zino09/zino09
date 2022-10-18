@@ -1,5 +1,5 @@
 
-# Hello there! I am Arnab Karmakar, with the alias of "codeby-Ak".
+# Hello there! I am Zino Lhendup Namchu, with the alias of "zino-09".
 
 I am Zino, a learner in Software Development and WebDevelpoment. Working with Java and solving Competitive Programming Problems is what I consider my best front. 
 I am currently pursuing my Bachelor of Engineering in Electrical Engineering, in my 7th semester, at Jadavpur University.
